@@ -1,0 +1,17 @@
+{
+    "allusers": [
+        {
+            "email": "examples@gmail.com",
+            "password": "$2b$12$9BnpvrHIEG9/HkmSQo96.uG5HbLYKoYxksiDFWBgEi495xf4yHfla",
+            "library": [
+                {
+                    "id": 1,
+                    "title": "Harry potter ",
+                    "author": "HP",
+                    "status": false,
+                    "page": 20
+                }
+            ]
+        }
+    ]
+}
